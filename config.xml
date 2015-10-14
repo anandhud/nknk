@@ -1,1 +1,29 @@
 
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.phonegap.example"
+        versionCode = "10" 
+        version     = "4.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>NockNock</name>
+
+    <description>
+        NKNK
+    </description>
+    <gap:splash src="splash-logo.jpg"   />
+	<preference name="SplashScreen" value="screen" />
+	<preference name="SplashScreenDelay" value="10000" />
+    <author href="https://bahwancybertek.com" email="anandhu.d@bahwancybertek.com">
+        Anandhu Dhanapal 
+    </author>
+    <icon src="nklogo.png" />
+     
+   
+
+     <content src="http://www.bahwancybertek.com/nk_nocknock/frontend/web/" />
+     <access origin="*" />
+
+</widget>
