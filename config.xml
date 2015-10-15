@@ -12,7 +12,7 @@
     <description>
         AD's BCT App
     </description>
-    <gap:splash src="splash-logo.jpg"   />
+
 	<preference name="SplashScreen" value="screen" />
 	<preference name="SplashScreenDelay" value="10000" />
     <author href="https://bahwancybertek.com" email="anandhu.d@bahwancybertek.com">
