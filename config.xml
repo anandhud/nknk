@@ -19,7 +19,7 @@
     </author>
     <icon src="nklogo.png" />
     
-     
+     <gap:plugin name="cordova-plugin-whitelist" source="npm" />
 
      <content src="http://www.anandhud.com/" />
      <access origin="*" />
